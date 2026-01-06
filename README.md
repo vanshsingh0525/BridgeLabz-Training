@@ -25,3 +25,17 @@
 🔗 *Link :* [Constructor](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
 
 ---
+
+### Day 3 -  Java Inbuilt Keywords (this, static, final, instanceof)
+
+*(Date: 29-Dec-2025)*
+
+- Understood the purpose and usage of the `this` keyword to refer to the current object and resolve variable ambiguity and contructor chaining.
+- Learned the `static` keyword and its use with variables, methods, and blocks to share data across objects.
+- Studied the `final` keyword and its application with variables, methods, and classes to restrict modification and inheritance.
+- Practiced the `instanceof` keyword to check object type and ensure safe type casting.
+- Completed multiple real-world programs to strengthen understanding and practical implementation of these keywords.
+
+🔗 *Link :* [Keywords](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/level1)
+
+---
