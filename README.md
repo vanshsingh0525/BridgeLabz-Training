@@ -168,3 +168,20 @@
 🔗 *Link :* [Class and Object](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
  
 🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### Day 10 – Java Constructors, Access Modifiers & LeetCode Problems
+
+*(Date: 27-Dec-2025)*
+
+- Learned the concept of `constructors` in Java, including their rules and role in initializing objects.
+- Practiced `constructor overloading` `using default`, `parameterized`, and `copy` constructors.
+- Learned `access modifiers` (`public`, `protected`, `default`, and `private`) along with their scope of accessibility.
+- Differentiated between `instance` and `class` (static) variables and methods using practical examples.
+- Implemented the previously learned topics.
+- Completed and pushed on GitHub.
+
+🔗 *Link :* [Constructor](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+
+---
