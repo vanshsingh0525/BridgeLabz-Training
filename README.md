@@ -39,3 +39,17 @@
 🔗 *Link :* [Keywords](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/level1)
 
 ---
+
+### Day 4 - Classes, Objects & UML Diagrams
+
+*(Date: 30-Dec-2025)*
+
+- Understood the difference between `classes` and `objects`, where a class acts as a blueprint and objects represent real instances created at runtime.
+- Learned about `class diagrams` and how they define the static structure of a system using classes, attributes, methods, and relationships.
+- Studied `object diagrams` to visualize actual object instances and their state at a specific point in time.
+- Explored `sequence diagrams` to understand the flow of interactions and method calls between objects in a time-ordered manner.
+- Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Object Modelling](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
+🔗 *Link :* [UML Diagrams](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classdiagramobjectdiagram)
