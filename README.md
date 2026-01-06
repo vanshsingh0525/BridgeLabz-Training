@@ -71,3 +71,22 @@
 - Successfully completed all assigned programs and verified the output results.
 
 🔗 *Link :* [Inheritance](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+---
+
+### Day 6 - Abstraction, Encapsulation, Polymorphism
+
+*(Date: 01-Jan-2026)*
+
+- Learned `encapsulation` and its role in data hiding and security.
+- Practiced using `getter` and `setter` methods to access private data safely.
+- Studied `polymorphism` and its importance in achieving flexibility in code.
+- Learned about `method overloading` as an example of `compile-time polymorphism`.
+- Practiced `method overriding` to achieve `runtime polymorphism`.
+- Understood `abstraction` and its purpose in hiding implementation details.
+- Studied `abstract classes` and how they provide `partial abstraction`.
+- Learned `interfaces` and how they define `complete abstraction` and `multiple inheritance` support.
+
+🔗 *Link :* [Abstaction-Encapsulation-Polymorphism](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+---
