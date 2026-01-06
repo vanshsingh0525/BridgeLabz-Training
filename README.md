@@ -185,3 +185,27 @@
 🔗 *Link :* [Constructor](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
 
 ---
+
+### Day 11 – Java Practice, Scenario-Based & Inbuilt Keywords
+
+*(Date: 29-Dec-2025)*
+
+- Understood the purpose and usage of the `this` keyword to refer to the current object and resolve variable ambiguity and contructor chaining.
+- Learned the `static` keyword and its use with variables, methods, and blocks to share data across objects.
+- Studied the `final` keyword and its application with variables, methods, and classes to restrict modification and inheritance.
+- Practiced the `instanceof` keyword to check object type and ensure safe type casting.
+- Completed multiple real-world programs to strengthen understanding and practical implementation of these keywords.
+- Solved questions on real world scenario.
+  - Parkiing System
+  - Number Guessing Game
+  - Discound Dashboard
+  - Bus Attendance System
+  - Phone Recharge Simulator
+- Implemented the previously learned topics.
+- Completed and pushed on GitHub.
+
+🔗 *Link :* [Keywords](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/level1)
+
+🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
