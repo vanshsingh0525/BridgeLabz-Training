@@ -111,3 +111,17 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
   [Day 6 - Methods](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
  [Day 6 – Strings](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
+---
+
+### Day 7 – Extras (Built-In Methods & String Practice)
+
+*(Date: 23-Dec-2025)*
+
+- Practiced built-in Java methods and additional string operations.
+- Worked on date/time operations and recursive algorithms.
+- Completed and pushed `extras` to GitHub.
+
+🔗 *Link:* [Extras](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+---
