@@ -90,3 +90,21 @@
 🔗 *Link :* [Abstaction-Encapsulation-Polymorphism](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
 
 ---
+
+## Scenario-Based Practice
+
+### Day 7
+
+*(Date: 02-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+ - Hospital Management System
+ - Vehicla Rental System
+ - University Cousre Enrollment System
+ - E-wallet Application
+ - Smart Home Automation System
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
+
+---
