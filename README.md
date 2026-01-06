@@ -148,3 +148,23 @@
   - Scheduling and display operations
 
 🔗 *Link:* [Extras](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+---
+
+### Day 9 – Java OOPS Basics, Scenario-Based
+
+*(Date: 26-Dec-2025)*
+
+- Learned `Procedural Programming` Overview
+- Learned `Object-oriented Programming` (OOP) Overview
+- Learned Java - `Class` and `Object`
+- Solved questions on real world scenario.
+  - Election Booth Manager
+  - Metro Smart Card
+  - Result Generator
+- Implemented the previously learned topics.
+- Completed and pushed to GitHub.
+
+🔗 *Link :* [Class and Object](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+ 
+🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
