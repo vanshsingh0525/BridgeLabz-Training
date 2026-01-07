@@ -279,3 +279,26 @@
 🔗 *Link :* [Abstaction-Encapsulation-Polymorphism](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
 
 ---
+
+### Day 15 - Linked List & Scenario-Based
+
+(Date: 02-Jan-2026)
+
+- Learned the introduction and importance of data structures in organizing and managing data efficiently.
+- Studied key features of data structures in Java such as efficiency, reusability, and optimization.
+- Understood different types of data structures in Java including linear and non-linear structures.
+- Learned the concept and working of single linked lists.
+- Studied doubly linked lists and how they allow traversal in both directions.
+- Understood circular linked lists and their advantages over linear linked lists.
+- Practiced real life, scenario based problems.
+  - Hospital Management System
+  - Vehicla Rental System
+  - University Cousre Enrollment System
+  - E-wallet Application
+  - Smart Home Automation System
+
+🔗 Link : [Linked List](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/linkedlist)
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
+
+---
