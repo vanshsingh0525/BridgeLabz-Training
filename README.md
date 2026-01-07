@@ -108,3 +108,16 @@
 🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
 
 ---
+
+### Day 8
+
+*(Date: 03-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+ - CabbyGo – A Ride-Hailing Application
+ - MyBank – Managing Customer Accounts
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
+
+---
