@@ -209,3 +209,28 @@
 🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
+### Day 12 – Object-Oriented Design, UML Diagrams, Scenario-Based 
+
+*(Date: 30-Dec-2025)*
+
+- Understood the difference between `classes` and `objects`, where a class acts as a blueprint and objects represent real instances created at runtime.
+- Learned about `class diagrams` and how they define the static structure of a system using classes, attributes, methods, and relationships.
+- Studied `object diagrams` to visualize actual object instances and their state at a specific point in time.
+- Explored `sequence diagrams` to understand the flow of interactions and method calls between objects in a time-ordered manner.
+- Solved questions on real world scenario.
+  - Temperature Logger
+  - Train Reservation
+  - Fitness Tracker
+  - Movie Ticket Booking
+  - Library Fine Reminder
+- Implemented the previously learned topics.
+- Completed and pushed to GitHub.
+
+🔗 *Link :* [Object Modelling](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
+🔗 *Link :* [UML Diagrams](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classdiagramobjectdiagram)
+
+🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
