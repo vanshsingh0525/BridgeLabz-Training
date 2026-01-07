@@ -134,3 +134,16 @@
 🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
 
 ---
+
+### Day 10
+
+*(Date: 06-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+  - EduMentor – Personalized Learning Platform
+  - FitTrack – Your Personal Fitness Tracke
+  - PetPal – Virtual Pet Care App
+  - EventEase – Event Management Platform
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
