@@ -302,3 +302,25 @@
 🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
 
 ---
+
+### Day 17 - Sorting Algorithms & Scenario-Based
+
+*(Date: 05-Jan-2026)*
+
+- Studied and implemented different sorting algorthims.
+- `Bubble Sort`: Repeatedly compares and swaps adjacent elements until the list is fully sorted.
+- `Insertion Sort`: Builds the sorted array one element at a time by inserting each element into its correct position.
+- `Merge Sort`: Uses a divide-and-conquer approach to split the array and merge sorted subarrays into a final sorted array.
+- `Quick Sort`: Partitions the array around a pivot and recursively sorts the subarrays for efficient average performance.
+- `Counting Sort`: Sorts elements by counting occurrences of each value, making it efficient for a known, limited range of integers.
+- `Selection Sort`: Repeatedly selects the smallest element from the unsorted portion and places it at the correct position.
+- `Heap Sort`: Uses a heap data structure to repeatedly extract the maximum or minimum element to produce a sorted array.
+- Practiced real life, scenario based problems.
+  - CampusConnect – College Information System
+  - SwiftCart – The Grocery Shopping App
+
+🔗 *Link :* [Sorting](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/sortingalgorithms)
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
+
+---
