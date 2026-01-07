@@ -121,3 +121,16 @@
 🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
 
 ---
+
+### Day 9 
+
+*(Date: 05-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+  - CampusConnect – College Information System
+  - SwiftCart – The Grocery Shopping App
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
+
+---
