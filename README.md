@@ -234,3 +234,31 @@
 🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
+### Day 13 – Java Inheritance & Scenario-Based Problems
+
+*(Date: 31-Dec-2025)*
+
+- Learned the concept of `inheritance` and how one class can acquire properties and methods of another class.
+- Studied `single-level` inheritance and its use when one child class inherits from one parent class.
+- Understood `multilevel` inheritance where a class inherits from another derived class.
+- Learned `hierarchical` inheritance where multiple child classes inherit from the same parent class.
+- Explored the key features of inheritance such as `code reusability` and `method overriding`.
+- Practiced `method overriding` to achieve runtime polymorphism.
+- Understood how `constructors` work in inheritance and the role of the super keyword.
+- Studied how `access modifiers` affect inheritance and member visibility across classes.
+- Successfully completed all assigned programs and verified the output results.
+- Solved questions on real world scenario.
+  - Digital Watch Simulation
+  - Online Quiz Application
+  - Currency Exchange
+  - Bus Route Distance Tracker
+  - Festival Lucky Draw
+- Implemented the previously learned topics.
+- Completed and pushed to GitHub.
+
+🔗 *Link :* [Inheritance](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
