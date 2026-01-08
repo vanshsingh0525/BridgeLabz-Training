@@ -303,6 +303,27 @@
 
 ---
 
+### Day 16 - Stack, Queue, HashMap, Hashing Functions & Scenario-Based
+
+(Date: 03-Jan-2026)
+
+- Learned the concept of stack and its working based on the LIFO (Last In, First Out) principle.
+- Studied queue and its working based on the FIFO (First In, First Out) principle.
+- Practiced basic stack and queue operations such as insertion, deletion, and traversal.
+- Learned the concept of hashing and how a hashing function works.
+- Studied HashMap in Java and how it stores data using key–value pairs for fast access.
+- Practiced real life, scenario based problems.
+  - CabbyGo – A Ride-Hailing Application
+  - MyBank – Managing Customer Accounts
+
+🔗 Link : [Stack and Queue](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/stacks_queqes)
+
+🔗 Link : [HashMap and HashingFunction](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/hashmap_hashfunctions)
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
+
+---
+
 ### Day 17 - Sorting Algorithms & Scenario-Based
 
 *(Date: 05-Jan-2026)*
