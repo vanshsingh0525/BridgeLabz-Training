@@ -345,3 +345,26 @@
 🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
 
 ---
+
+### Day 18 - Linear search, Binary Search & Scenario-Based Problems
+
+*(Date: 06-Jan-2026)*
+
+- Learned `StringBuilder` and how it allows mutable string operations with better performance in a single-threaded environment.
+- Studied `StringBuffer` and how it provides thread-safe mutable string operations using synchronization.
+- Learned `FileReader` to read character data directly from files.
+- Studied `InputStreamReader` to convert byte streams into character streams.
+- Learned `Linear Search` and how it sequentially checks each element to find a target value.
+- Studied `Binary Search` and how it efficiently searches a sorted array by repeatedly dividing the search space in half.
+- Practiced real life, scenario based problems.
+  - EduMentor – Personalized Learning Platform
+  - FitTrack – Your Personal Fitness Tracke
+  - PetPal – Virtual Pet Care App
+  - EventEase – Event Management Platform
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [linear and binary search](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/linearsearch)
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
+
+---
