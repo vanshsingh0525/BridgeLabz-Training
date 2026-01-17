@@ -47,3 +47,20 @@
 🔗 *Link :* [sorting](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/sortingalgorithms)
 
 ---
+
+### Day 4 - Linear and Binary Search
+
+*(Date: 06-Jan-2026)*
+
+- Learned `StringBuilder` and how it allows mutable string operations with better performance in a single-threaded environment.
+- Studied `StringBuffer` and how it provides thread-safe mutable string operations using synchronization.
+- Learned `FileReader` to read character data directly from files.
+- Studied `InputStreamReader` to convert byte streams into character streams.
+- Learned `Linear Search` and how it sequentially checks each element to find a target value.
+- Studied `Binary Search` and how it efficiently searches a sorted array by repeatedly dividing the search space in half.
+
+🔗 *Link :* [linear search](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/linearsearch)
+
+🔗 *Link :* [binary search](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/binarysearch)
+
+---
