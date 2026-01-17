@@ -15,6 +15,22 @@
 
 ---
 
+### Day 2 - Stack, Queue, HashMap and Hashing Functions
+
+*(Date: 03-Jan-2026)*
+
+- Learned the concept of stack and its working based on the LIFO (Last In, First Out) principle.
+- Studied queue and its working based on the FIFO (First In, First Out) principle.
+- Practiced basic stack and queue operations such as insertion, deletion, and traversal.
+- Learned the concept of hashing and how a hashing function works.
+- Studied HashMap in Java and how it stores data using key–value pairs for fast access.
+
+🔗 *Link :* [Stack and Queue](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/stacks_queqes)
+
+🔗 *Link :* [HashMap and HashingFunction](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/hashmap_hashfunctions)
+
+---
+
 ### Day 3 - Sorting Algorithms
 
 *(Date: 05-Jan-2026)*
@@ -29,5 +45,37 @@
 - `Heap Sort`: Uses a heap data structure to repeatedly extract the maximum or minimum element to produce a sorted array.
 
 🔗 *Link :* [sorting](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/sortingalgorithms)
+
+---
+
+### Day 4 - Linear and Binary Search
+
+*(Date: 06-Jan-2026)*
+
+- Learned `StringBuilder` and how it allows mutable string operations with better performance in a single-threaded environment.
+- Studied `StringBuffer` and how it provides thread-safe mutable string operations using synchronization.
+- Learned `FileReader` to read character data directly from files.
+- Studied `InputStreamReader` to convert byte streams into character streams.
+- Learned `Linear Search` and how it sequentially checks each element to find a target value.
+- Studied `Binary Search` and how it efficiently searches a sorted array by repeatedly dividing the search space in half.
+
+🔗 *Link :* [linear search](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/linearsearch)
+
+🔗 *Link :* [binary search](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/binarysearch)
+
+---
+
+### Day 5 - Runtime Analysis
+
+*(Date: 07-Jan-2026)*
+
+- Learned `runtime analysis` and how it evaluates the efficiency of an algorithm based on time and space usage.
+- Studied `Big-O notation` to express algorithm performance and scalability as input size grows.
+- Understood `time complexity` analysis to measure how execution time increases with input size.
+- Learned `space complexity` analysis to evaluate the amount of memory an algorithm requires.
+- Studied `best`, `worst`, and `average case complexities` to analyze algorithm behavior under different conditions.
+- Learned practical guidelines for optimizing Java code by reducing unnecessary computations and improving performance.
+
+🔗 *Link :* [runtime analysis](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/runtimeanalysis)
 
 ---
