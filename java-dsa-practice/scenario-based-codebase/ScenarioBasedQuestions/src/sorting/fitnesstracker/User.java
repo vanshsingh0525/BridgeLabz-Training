@@ -1,0 +1,18 @@
+package sorting.fitnesstracker;
+
+public class User {
+    int userId;
+    String name;
+    int steps;
+
+    public User(int userId, String name, int steps) {
+        this.userId = userId;
+        this.name = name;
+        this.steps = steps;
+    }
+
+    @Override
+    public String toString() {
+        return userId + " | " + name + " | Steps: " + steps;
+    }
+}
