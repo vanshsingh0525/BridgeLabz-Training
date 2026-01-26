@@ -452,3 +452,21 @@
 🔗 *Link :* [Scenario-Based Oops](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
 
 ---
+
+### Day 24 - Scenario-Based Problems on DSA & OOPS
+
+*(Date: 13-Jan-2026)*
+
+- Practiced real life, scenario based problems oops and dsa.
+  - SmartCheckout – Supermarket Billing Queue
+  - ParcelTracker – Delivery Chain Management
+  - ExamProctor – Online Exam Review System
+  - PayXpress – Utility Bill Payment System
+  - Bird Sanctuary
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based Dsa](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src)
+
+🔗 *Link :* [Scenario-Based Oops](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
+
+---
