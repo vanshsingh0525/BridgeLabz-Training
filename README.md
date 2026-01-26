@@ -201,6 +201,6 @@
   - GameBox – Mobile Game Distribution Platform
 -  Successfully completed all assigned programs and verified the output results.
 
-🔗 *Link :* [Scenario-Based](https://github.com/sanya-modi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario_based_codebase/src)
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
 
 ---
