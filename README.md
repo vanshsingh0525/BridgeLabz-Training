@@ -230,3 +230,13 @@
 🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
 
 ---
+
+### Day 17
+
+*(Date: 19-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+  - Address Book System
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
