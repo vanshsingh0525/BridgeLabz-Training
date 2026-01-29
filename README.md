@@ -111,3 +111,17 @@
 🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src)
 
 ---
+
+### Day 8
+
+*(Date: 13-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+  - SmartCheckout – Supermarket Billing Queue
+  - ParcelTracker – Delivery Chain Management
+  - ExamProctor – Online Exam Review System
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src)
+
+---
