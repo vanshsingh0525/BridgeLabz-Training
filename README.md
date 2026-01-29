@@ -79,3 +79,19 @@
 🔗 *Link :* [runtime analysis](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaConcepts/src/runtimeanalysis)
 
 ---
+
+## LeetCode and Scenario-Based Practice
+
+### Day 6
+
+*(Date: 10-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+  - BookShelf – Library Organizer 
+  - BrowserBuddy – Tab History Manager
+  - AmbulanceRoute – Emergency Patient Navigation
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src)
+
+---
