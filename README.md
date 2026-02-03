@@ -588,3 +588,30 @@
 🔗 *Link :* [Scenario-Based Dsa](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src/sorting)
 
 ---
+
+### Day 30 - Regex, JUnit, Scenario-Based Problems on DSA
+
+*(Date: 21-Jan-2026)*
+
+- Learned `Regex` and its use in pattern matching and data validation.
+- Studied `metacharacters` and `quantifiers` in Regex.
+- Practiced common `Regex patterns` for email, password, and phone number validation.
+- Learned Java `Regex API` using Pattern and Matcher classes.
+- Studied `Regex methods` find(), matches(), and replaceAll().
+- Learned the basics of the `JUnit` framework for unit testing.
+- Studied JUnit `annotations`, `test class structure`, and `assertions`.
+- Practiced real life, scenario based problems on sorting.
+   - TailorShop – Sorting Orders by Delivery Deadline
+   - MedWarehouse – Sorting Medicines by Expiry
+   - BST - University's Digital Record System
+   - BST - E-Commerce Product Inventory
+   - BST - Music App - Organize Songs by Track ID
+- Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Regex](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/regex)
+
+🔗 *Link :* [JUnit](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/junit) 
+
+🔗 *Link :* [Scenario-Based Dsa](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src/sorting)
+
+---
