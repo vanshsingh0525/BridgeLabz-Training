@@ -106,3 +106,21 @@
 🔗 *Link :* [Reflection](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/reflection) 
 
 ---
+
+## LeetCode and Scenario-Based Practice
+
+### Day 7 
+
+*(Date: 23-Jan-2026)*
+
+- Practiced real life, scenario based problems.
+  - ResumeAnalyzer – Smart Resume Filtering System
+  - TravelLog – Trip Organizer for Backpackers
+  - FeedbackGuru – Smart Survey Analyzer
+  - CodeRepoCleaner – Java File Scanner and Organizer
+  - ExamScanner – Digital Answer Sheet Validator
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedQuestions/src)
+
+---
