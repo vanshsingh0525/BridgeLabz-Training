@@ -184,3 +184,17 @@
 🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src)
 
 ---
+
+### Day 13
+
+*(Date: 20-Jan-2026)*
+
+- Practiced real life, scenario based problems on sorting.
+   - MovieTime – Theater Show Listings
+   - FoodFest – Sorting Stalls by Customer Footfall 
+   - GamerZone – High Score Ranking System
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src)
+
+---
