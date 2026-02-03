@@ -536,3 +536,31 @@
 🔗 *Link :* [Scenario-Based Oops](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
 
 ---
+
+### Day 28 - Java Streams, Scenario-Based Problems on DSA & OOPS
+
+*(Date: 19-Jan-2026)*
+
+- Learned Java I/O Streams and how they are used to perform input and output operations in Java.
+- Studied different types of streams in Java based on data handling and functionality.
+- Learned File Streams to read and write data directly from files.
+- Studied Object Streams to read and write Java objects using serialization and deserialization.
+- Learned ByteArray Streams to handle data in memory using byte arrays.
+- Studied Buffered Streams to improve I/O performance by reducing direct disk access.
+- Learned Reader and Writer classes to handle character-based input and output operations.
+- Understood key considerations such as stream closing, exception handling, and performance impact.
+- Learned best practices for Java I/O by using buffering, try-with-resources, and choosing the right stream type.
+- Practiced real life, scenario based problems on sorting.
+   - EduResults – Rank Sheet Generator
+   - FlashDealz – Product Sorting by Discount
+   - FitnessTracker – Daily Step Count Ranking
+   - Address Book System
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Streams](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/streams)
+
+🔗 *Link :* [Scenario-Based Dsa](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src/sorting)
+
+🔗 *Link :* [Scenario-Based Oops](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario_based_codebase/src)
+
+---
