@@ -125,3 +125,19 @@ BridgeLabz-Training/
 🔗 *Link:* [Extras](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
+
+Scenario-Based Practice
+
+### Day 8  
+
+*(Date: 24-Dec-2025)*
+
+- Practiced real life, scenario based problems.
+  - BMI Fitness Tracker
+  - Coffee Counter Chronicles
+- Implemented the previously learned topics.
+- Completed and pushed to GitHub.
+
+🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
