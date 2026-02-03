@@ -14,3 +14,15 @@
 🔗 *Link :* [CSV Data](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsConcepts/src/csv)
 
 ---
+
+### Day 2 - JSON Data
+
+*(Date: 24-Jan-2026)*
+
+- Learned the introduction to `JSON` and understood its structure, syntax, and role in data exchange between systems.
+- Studied how to `read JSON data` in Java from files, strings, or API responses.
+- Learned how to `write JSON data` programmatically while maintaining proper formatting and structure.
+- Studied `parsing JSON data` to extract objects, arrays, and nested values for processing.
+- Learned `JSON schema validation` to verify the structure, data types, and required fields in JSON documents.
+
+🔗 *Link :* [JSON Data](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsConcepts/src/json)
