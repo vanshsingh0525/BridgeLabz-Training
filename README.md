@@ -211,6 +211,18 @@
    - BST - Music App - Organize Songs by Track ID
 -  Successfully completed all assigned programs and verified the output results.
 
-🔗 *Link :* [Scenario-Based](https://github.com/sanya-modi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src/sorting)
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src)
 
 ---
+
+### Day 15
+
+*(Date: 22-Jan-2026)*
+
+- Practiced real life, scenario based problems on AVL tree.
+   - Gaming App - Real-Time Leaderboard
+   - Online Ticket Booking by Time
+   - Hospital Queue Management
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src/sorting)
