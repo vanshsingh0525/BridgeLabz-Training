@@ -173,3 +173,20 @@ Scenario-Based Practice
 🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
+### Day 11
+
+*(Date: 30-Dec-2025)*
+
+- Solved questions on real world scenario.
+  - Temperature Logger
+  - Train Reservation
+  - Fitness Tracker
+  - Movie Ticket Booking
+  - Library Fine Reminder
+- Implemented the previously learned topics.
+- Completed and pushed to GitHub.
+
+🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
