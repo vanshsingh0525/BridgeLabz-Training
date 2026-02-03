@@ -4,5 +4,5 @@ import java.util.List;
 
 public interface AnswerSheet {
     List<String> getCorrectAnswers();
-    String getSubjectName();
+    String getSubjectName() ;
 }
