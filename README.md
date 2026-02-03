@@ -190,3 +190,18 @@ Scenario-Based Practice
 🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
+### Day 12
+
+*(Date: 31-Dec-2025)*
+
+- Solved questions on real world scenario.
+  - Digital Watch Simulation
+  - Online Quiz Application
+  - Currency Exchange
+  - Bus Route Distance Tracker
+  - Festival Lucky Draw
+- Implemented the previously learned topics.
+- Completed and pushed to GitHub.
+
+🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
