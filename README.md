@@ -714,3 +714,19 @@
 🔗 *Link :* [Functional Interface](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/functionalinterface) 
 
 ---
+
+### Day 35 - Stream Api & Collectors
+
+*(Day: 28-Jan-2026)*
+
+- Explored `intermediate stream operations` such as filter, map, flatMap, distinct, sorted, peek, limit, and skip to transform and process data in a pipeline.
+- Studied `terminal operations` including collect, forEach, reduce, count, anyMatch, allMatch, and noneMatch to produce final results from streams.
+- Understood the difference between `stateless` and `stateful operations`, where filter is stateless while sorted and distinct are stateful operations.
+- Learned about `ordered` vs `unordered` streams and how element order impacts processing and performance.
+- Studied `parallel streams` and how they enable parallel processing to improve performance on large datasets.
+- Compared `forEach()` in Iterable vs Stream, understanding execution order and behavior differences, especially with parallel streams.
+- Learned about `Collectors` and their roles and capabilities in transforming stream elements into collections, summaries, and aggregated results.
+
+🔗 *Link :* [Stream Api](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/streamapi) 
+
+🔗 *Link :* [Collectors](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/collectors) 
