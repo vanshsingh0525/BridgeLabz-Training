@@ -615,3 +615,29 @@
 🔗 *Link :* [Scenario-Based Dsa](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src/sorting)
 
 ---
+
+### Day 31 - Annotations, Reflection, Scenario-Based Problems on DSA
+
+*(Date: 22-Jan-2026)*
+
+- Learned the introduction to `annotations` and how they provide metadata in Java programs.
+- Studied common `built-in annotations` used in Java applications.
+- Learned how to create `custom annotations` for user-defined metadata.
+- Understood `real-world use cases` of annotations in frameworks and applications.
+- Learned about annotation processing tools and their role in compile-time processing.
+- Studied `reflection` and how it allows inspection of classes, methods, and fields at runtime.
+- Learned how to use reflection in Java to access and manipulate class metadata dynamically.
+- Understood how annotations and reflection work together in frameworks and libraries.
+- Practiced real life, scenario based problems on sorting.
+   - AVL - Gaming App - Real-Time Leaderboard
+   - AVL - Online Ticket Booking by Time
+   - AVL - Hospital Queue Management
+- Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Annotations](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/annotation) 
+
+🔗 *Link :* [Reflection](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/reflection)
+
+🔗 *Link :* [Scenario-Based Dsa](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src/sorting)
+
+---
