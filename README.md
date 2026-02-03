@@ -156,3 +156,20 @@ Scenario-Based Practice
 🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
+### Day 10
+
+*(Date: 28-Dec-2025)*
+
+- Solved questions on real world scenario.
+  - Parkiing System
+  - Number Guessing Game
+  - Discound Dashboard
+  - Bus Attendance System
+  - Phone Recharge Simulator
+- Implemented the previously learned topics.
+- Completed and pushed on GitHub.
+
+🔗 *Link:* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
