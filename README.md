@@ -198,3 +198,19 @@
 🔗 *Link :* [Scenario-Based](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedQuestions/src)
 
 ---
+
+### Day 14 
+
+*(Date: 21-Jan-2026)*
+
+- Practiced real life, scenario based problems on sorting and binary search tree.
+   - TailorShop – Sorting Orders by Delivery Deadline
+   - MedWarehouse – Sorting Medicines by Expiry
+   - BST - University's Digital Record System
+   - BST - E-Commerce Product Inventory
+   - BST - Music App - Organize Songs by Track ID
+-  Successfully completed all assigned programs and verified the output results.
+
+🔗 *Link :* [Scenario-Based](https://github.com/sanya-modi/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblem/src/sorting)
+
+---
