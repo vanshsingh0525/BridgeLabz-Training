@@ -1,0 +1,125 @@
+-- ============================================================
+-- Problem: Exercise 1 - Simple CRUD Application
+-- File: employee.db
+-- Table: employee
+-- Database: blabz_db
+-- ============================================================
+
+-- mysql>
+USE blabz_db;
+
+/* o/p
+Database changed
+*/
+
+-- mysql>
+DROP TABLE IF EXISTS employee;
+
+/* o/p
+Query OK, 0 rows affected (0.00 sec)
+*/
+
+-- mysql>
+CREATE TABLE employee (
+    emp_id INT PRIMARY KEY,
+    emp_name VARCHAR(50),
+    department VARCHAR(30),
+    salary INT
+);
+
+/* o/p
+Query OK, 0 rows affected (0.13 sec)
+*/
+
+-- mysql>
+DESC employee;
+
+/* o/p
++------------+-------------+------+-----+---------+-------+
+| Field      | Type        | Null | Key | Default | Extra |
++------------+-------------+------+-----+---------+-------+
+| emp_id     | int         | NO   | PRI | NULL    |       |
+| emp_name   | varchar(50) | YES  |     | NULL    |       |
+| department | varchar(30) | YES  |     | NULL    |       |
+| salary     | int         | YES  |     | NULL    |       |
++------------+-------------+------+-----+---------+-------+
+*/
+
+-- mysql>
+INSERT INTO employee (emp_id, emp_name, department, salary) VALUES
+(101, 'Akash', 'IT', 45000),
+(102, 'Rashika', 'HR', 40000),
+(103, 'Krishna', 'Finance', 50000),
+(104, 'Sanya', 'IT', 48000);
+
+/* o/p
+Query OK, 4 rows affected
+*/
+
+-- mysql>
+SELECT * FROM employee;
+
+/* o/p
++--------+----------+------------+--------+
+| emp_id | emp_name | department | salary |
++--------+----------+------------+--------+
+| 101    | Akash    | IT         | 45000  |
+| 102    | Rashika  | HR         | 40000  |
+| 103    | krishna  | Finance    | 50000  |
+| 104    | Sanya    | IT         | 48000  |
++--------+----------+------------+--------+
+*/
+
+-- mysql>
+UPDATE employee
+SET salary = 55000
+WHERE emp_id = 103;
+
+/* o/p
+Query OK, 1 row affected
+*/
+
+-- mysql>
+DELETE FROM employee
+WHERE emp_id = 102;
+
+/* o/p
+Query OK, 1 row affected
+*/
+
+-- mysql>
+SELECT * FROM employee;
+
+/* o/p
++--------+----------+------------+--------+
+| emp_id | emp_name | department | salary |
++--------+----------+------------+--------+
+| 101    | Akash    | IT         | 45000  |
+| 103    | Krishna  | Finance    | 55000  |
+| 104    | Sanya    | IT         | 48000  |
++--------+----------+------------+--------+
+*/
+
+-- mysql>
+SELECT * FROM employee
+WHERE emp_name = 'Akash';
+
+/* o/p
++--------+----------+------------+--------+
+| emp_id | emp_name | department | salary |
++--------+----------+------------+--------+
+| 101    | Akash    | IT         | 45000  |
++--------+----------+------------+--------+
+*/
+
+
+-- SEARCH EMPLOYEE BY NAME
+SELECT * FROM employee
+WHERE emp_name LIKE '%ha%';
+
+-- OUTPUT:
+ +--------+----------+------------+--------+
+ | emp_id | emp_name | department | salary |
+ +--------+----------+------------+--------+
+ | 101    | Akash    | IT         | 45000  |
+ +--------+----------+------------+--------+
