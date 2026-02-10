@@ -1,0 +1,220 @@
+
+-- ============================================================
+-- Problem: Exercise 2 - Transaction Management (Banking System)
+-- File: account.db
+-- Tables: account, transaction_history
+-- Database: blabz_db
+-- ============================================================
+
+-- mysql>
+USE blabz_db;
+
+/* o/p
+Database changed
+*/
+
+-- mysql>
+DROP TABLE IF EXISTS transaction_history;
+
+/* o/p
+Query OK, 0 rows affected (0.00 sec)
+*/
+
+-- mysql>
+DROP TABLE IF EXISTS account;
+
+/* o/p
+Query OK, 0 rows affected (0.00 sec)
+*/
+
+-- mysql>
+CREATE TABLE account (
+    account_id INT PRIMARY KEY,
+    account_holder VARCHAR(50),
+    balance INT
+);
+
+/* o/p
+Query OK, 0 rows affected (0.11 sec)
+*/
+
+-- mysql>
+CREATE TABLE transaction_history (
+    txn_id INT AUTO_INCREMENT PRIMARY KEY,
+    from_account INT,
+    to_account INT,
+    amount INT,
+    txn_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+/* o/p
+Query OK, 0 rows affected (0.03 sec)
+*/
+
+-- mysql>
+DESC account;
+
+/* o/p
++---------------+-------------+------+-----+---------+-------+
+| Field         | Type        | Null | Key | Default | Extra |
++---------------+-------------+------+-----+---------+-------+
+| account_id    | int         | NO   | PRI | NULL    |       |
+| account_holder| varchar(50) | YES  |     | NULL    |       |
+| balance       | int         | YES  |     | NULL    |       |
++---------------+-------------+------+-----+---------+-------+
+*/
+
+-- mysql>
+INSERT INTO account VALUES
+(1, 'Akash', 10000),
+(2, 'Rashika', 8000);
+
+/* o/p
+Query OK, 2 rows affected (0.01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+*/
+
+-- mysql>
+SELECT * FROM account;
+
+/* o/p
++------------+----------------+---------+
+| account_id | account_holder | balance |
++------------+----------------+---------+
+| 1          | Akash          | 10000   |
+| 2          | Rashika        | 8000    |
++------------+----------------+---------+
+*/
+
+-- ============================================================
+-- TRANSFER MONEY USING TRANSACTION (Akash -> Rashika : 2000)
+-- ============================================================
+
+-- mysql>
+START TRANSACTION;
+
+/* o/p
+Query OK, 0 rows affected (0.00 sec)
+*/
+
+-- mysql>
+UPDATE account
+SET balance = balance - 2000
+WHERE account_id = 1;
+
+/* o/p
+Query OK, 1 row affected (0.01 sec)
+*/
+
+-- mysql>
+UPDATE account
+SET balance = balance + 2000
+WHERE account_id = 2;
+
+/* o/p
+Query OK, 1 row affected (0.01 sec)
+*/
+
+-- mysql>
+INSERT INTO transaction_history (from_account, to_account, amount)
+VALUES (1, 2, 2000);
+
+/* o/p
+Query OK, 1 row affected (0.01 sec)
+*/
+
+-- mysql>
+COMMIT;
+
+/* o/p
+Query OK, 0 rows affected (0.00 sec)
+*/
+
+-- ============================================================
+-- CHECK BALANCE
+-- ============================================================
+
+-- mysql>
+SELECT account_id, account_holder, balance
+FROM account
+WHERE account_holder = 'Akash';
+
+/* o/p
++------------+----------------+---------+
+| account_id | account_holder | balance |
++------------+----------------+---------+
+| 1          | Akash          | 8000    |
++------------+----------------+---------+
+1 row in set (0.00 sec)
+*/
+
+-- mysql>
+SELECT account_id, account_holder, balance
+FROM account
+WHERE account_holder = 'Rashika';
+
+/* o/p
++------------+----------------+---------+
+| account_id | account_holder | balance |
++------------+----------------+---------+
+| 2          | Rashika        | 10000   |
++------------+----------------+---------+
+1 row in set (0.00 sec)
+*/
+
+-- ============================================================
+-- TRANSACTION HISTORY
+-- ============================================================
+
+-- mysql>
+SELECT * FROM transaction_history;
+
+/* o/p
++--------+--------------+------------+--------+---------------------+
+| txn_id | from_account | to_account | amount | txn_date            |
++--------+--------------+------------+--------+---------------------+
+| 1      | 1            | 2          | 2000   | 2026-02-07 23:16:10 |
++--------+--------------+------------+--------+---------------------+
+1 row in set (0.01 sec)
+*/
+
+-- ============================================================
+-- ROLLBACK (FAILED TRANSACTION)
+-- ============================================================
+
+-- mysql>
+START TRANSACTION;
+
+/* o/p
+Query OK, 0 rows affected (0.00 sec)
+*/
+
+-- mysql>
+UPDATE account
+SET balance = balance - 20000
+WHERE account_id = 2;
+
+/* o/p
+Query OK, 0 rows affected (0.00 sec)
+*/
+
+-- mysql>
+ROLLBACK;
+
+/* o/p
+Query OK, 0 rows affected (0.00 sec)
+*/
+
+-- mysql>
+SELECT * FROM account WHERE account_id = 2;
+
+/* o/p
++------------+----------------+---------+
+| account_id | account_holder | balance |
++------------+----------------+---------+
+| 2          | Rashika        | 10000   |
++------------+----------------+---------+
+1 row in set (0.00 sec)
+*/
+
+
