@@ -773,3 +773,19 @@ Learned `UML designing` to visually represent system structure, relationships, a
 🔗 *Link :* [Design Principles](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples/librarycasestudy) 
 
 ---
+
+### Day 38 - Multi-Threading
+*(Date:2-Feb-2026)*
+
+- Learned multithreading and how it allows concurrent execution of multiple tasks within a single process.
+- Studied different ways to create threads using the `Thread` class and `Runnable` interface.
+- Understood the thread lifecycle and commonly used thread methods.
+- Learned daemon threads and their role in background tasks.
+- Studied synchronization to prevent race conditions and ensure thread safety.
+- Learned thread communication using `wait()`, `notify()`, and `notifyAll()`.
+- Understood deadlock and techniques to avoid it.
+- Studied `ReentrantLock` and compared it with synchronized blocks.
+
+🔗 *Link :* [Multi-Threading](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading) 
+
+---
