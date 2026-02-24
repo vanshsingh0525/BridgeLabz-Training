@@ -747,3 +747,29 @@
 - `Optional Class` - Handled null-sensitive scenarios safely and avoided NullPointerException using Optional-based design.
 
 ---
+
+## Week 7 : Java Design Principles & Design Patterns
+
+### Day 37 - Design Principles & Design Patterns
+*(Date:31-Jan-2026)*
+
+- Studied the introduction to `design principles` and their importance in writing clean, maintainable, and scalable software.
+- Learned the `Single Responsibility Principle` (SRP) to ensure a class has only one reason to change.
+- Studied the `Open/Closed Principle (OCP)` to design classes that are open for extension but closed for modification.
+- Understood the `Liskov Substitution Principle (LSP)` to ensure child classes can replace parent classes without breaking behavior.
+- Learned the `Interface Segregation Principle (ISP)` to avoid forcing classes to implement unused methods.
+- Studied the `Dependency Inversion Principle (DIP)` to reduce tight coupling by depending on abstractions instead of concrete implementations.
+- Learned the `Don’t Repeat Yourself (DRY)` principle to eliminate code duplication and improve maintainability.
+- Studied the `Keep It Simple, Stupid (KISS)` principle to keep solutions simple and easy to understand.
+- Learned the `You Aren’t Gonna Need It (YAGNI)` principle to avoid adding unnecessary functionality prematurely.
+- Explored the introduction to `GoF (Gang of Four) Design Patterns` and their role in solving common software design problems.
+- Studied the categories of GoF design patterns including `creational`, `structural`, and `behavioral patterns`.
+- Learned the `Singleton Pattern` to ensure a class has only one instance and provide a global access point.
+- Studied the `Factory Pattern` to create objects without exposing instantiation logic to the client.
+- Learned the `Observer Pattern` to define a one-to-many dependency between objects for event-based updates.
+Studied the `Builder Pattern` to construct complex objects step by step with better readability.
+Learned `UML designing` to visually represent system structure, relationships, and design patterns effectively.
+
+🔗 *Link :* [Design Principles](https://github.com/vanshsingh0525/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples/librarycasestudy) 
+
+---
